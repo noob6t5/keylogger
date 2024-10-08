@@ -6,6 +6,8 @@ An Advance Linux Keylogger in C for Educational Purpose .
 1. Unlike Traditional Keylogger it doesn't depend upon dev input .
 2. It doesn't need any External Libraries
 3. Run's in background easily     `daemon`.
+4. It stores logged text  in  `/tmp/keylog.txt `.
+
 
 # TODO 
 1. I am working on Polymorphic version of this as well using inline assembly.
