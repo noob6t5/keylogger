@@ -11,7 +11,7 @@ An Advance Linux Keylogger in C for Educational Purpose .
 
 # TODO 
 1. I am working on Polymorphic version of this as well using inline assembly.
-2. Hiding PID, And Autostart upon Special App or Browser is Opened
+2. Hiding PID, And Autostart upon Special App or Browser is Opened, with  timeframe.
 3. Sending KeyLogged text to Telegram Bot.
 
 
